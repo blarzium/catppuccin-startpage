@@ -3,7 +3,7 @@
 // Define preferred palette for light and dark mode
 // Available themes: latte, frappe, mocha, macchiato
 const preferredLightTheme = latte;
-const preferredDarkTheme = macchiato;
+const preferredDarkTheme = frappe;
 
 let palette = initThemeSystem(preferredLightTheme, preferredDarkTheme);
 
@@ -19,7 +19,7 @@ const default_configuration = {
   },
   additionalClocks: [
     {
-      label: "BHR",
+      label: "BH",
       timezone: "AST",
       format: "h:i",
       icon_color: palette.peach,
@@ -44,14 +44,14 @@ const default_configuration = {
   tabs: [
     {
       name: "myself",
-      background_url: "src/img/banners/banner_09.gif",
+      background_url: "src/img/banners/banner_12.gif",
       categories: [
         {
           name: "bookmarks",
           links: [
             {
-              name: "raindrop",
-              url: "https://app.raindrop.io",
+              name: "anime",
+              url: "https://hianime.to",
               icon: "droplet-bolt",
               icon_color: palette.green,
             },
