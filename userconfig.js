@@ -57,8 +57,8 @@ const default_configuration = {
             },
             {
               name: "youtube",
-              url: "youtube.com",
-              icon: "binary-tree",
+              url: "https://youtube.com",
+              icon: "brand-youtube",
               icon_color: palette.peach,
             },
             {
@@ -85,9 +85,9 @@ const default_configuration = {
               icon_color: palette.green,
             },
             {
-              name: "calendar",
-              url: "https://calendar.google.com",
-              icon: "calendar-filled",
+              name: "gpt,
+              url: "https://chatgpt.com",
+              icon: "ai",
               icon_color: palette.peach,
             },
             {
