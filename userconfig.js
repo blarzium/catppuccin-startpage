@@ -85,7 +85,7 @@ const default_configuration = {
               icon_color: palette.green,
             },
             {
-              name: "gpt,
+              name: "gpt",
               url: "https://chatgpt.com",
               icon: "ai",
               icon_color: palette.peach,
