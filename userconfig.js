@@ -56,9 +56,21 @@ const default_configuration = {
               icon_color: palette.green,
             },
             {
-              name: "musicForProgramming();",
-              url: "https://musicforprogramming.net",
+              name: "youtube",
+              url: "youtube.com",
               icon: "binary-tree",
+              icon_color: palette.peach,
+            },
+            {
+              name: "discord",
+              url: "https://discord.com",
+              icon: "brand-discord",
+              icon_color: palette.peach,
+            },
+            {
+              name: "vote",
+              url: "https://pika-network.net/vote/",
+              icon: "pacman",
               icon_color: palette.peach,
             },
           ],
